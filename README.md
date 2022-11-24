@@ -1,8 +1,4 @@
-### Hello people
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SadGhostYT.SadGhostYT&left_color=blue&right_color=gray)
-
-<br />
+### Hello there!
 
 What's up, I'm SadGhost (a.k.a DirtyConcepts), a programming enthusiast as well as a self-taught full stack developer that usually works around the game Minecraft. My passion for development comes from creative ideas that pop into my mind which encourage as well as challenge me. I put a lot of effort into the architecture and code quality of the things I program.
 
