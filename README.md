@@ -1,8 +1,8 @@
 ### Hello there!
 
-What's up, I'm SadGhost (a.k.a DirtyConcepts), a programming enthusiast as well as a self-taught full stack developer that usually works around the game Minecraft. My passion for development comes from creative ideas that pop into my mind which encourage as well as challenge me. I put a lot of effort into the architecture and code quality of the things I program.
+What's up, I'm SadGhost (a.k.a DirtyConcepts), a self-taught full stack developer that usually works around the game Minecraft. My passion for development comes from creative ideas that pop into my mind which encourage as well as challenge me. I put a lot of effort into the architecture and code quality of the things I program.
 
-I also learned a lot from the open-source community and I love how collaboration and knowledge-sharing happened through it.
+I'm also a programming enthusiast as well as learned a lot from the open-source community and I love how collaboration and knowledge-sharing happened through it.
 
 ## Tools
 [![Tools](https://skillicons.dev/icons?i=idea,visualstudio)](https://skillicons.dev)
