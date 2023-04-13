@@ -19,12 +19,6 @@ I'm also a programming enthusiast as well as learned a lot from the open-source 
 </br>
 
 ## Github Stats
-<center>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadghostyt&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true)
-</center>
-<center>
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sadghostyt&theme=dark&hide_border=true)
-</center>
-<center>
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sadghostyt&theme=darkhub&no-bg=true&no-frame=true&margin-w=30)
-</center>
