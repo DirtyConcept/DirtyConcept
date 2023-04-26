@@ -8,7 +8,7 @@ I'm also a programming enthusiast as well as learned a lot from the open-source 
 [![Tools](https://skillicons.dev/icons?i=idea,visualstudio)](https://skillicons.dev)
 
 ## Languages
-[![Languages](https://skillicons.dev/icons?i=java,kotlin,python,c,cpp,cs,ruby,rust,html,css,javascript,php,typescript)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,kotlin,python,c,cpp,cs,ruby,rust,html,css,javascript,php,typescript,vue)](https://skillicons.dev)
 
 ## Databases
 [![Databases](https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite)](https://skillicons.dev)
