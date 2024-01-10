@@ -5,13 +5,13 @@ What's up, I'm SadGhost (a.k.a DirtyConcepts), a self-taught full-stack develope
 I'm also a programming enthusiast as well as learned a lot from the open-source community I love how collaboration and knowledge-sharing happened through it.
 
 ## Tools
-[![Tools](https://skillicons.dev/icons?i=idea,visualstudio)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=idea,visualstudio,vscode,androidstudio,eclipse)](https://skillicons.dev)
 
 ## Languages
-[![Languages](https://skillicons.dev/icons?i=java,kotlin,python,c,cpp,cs,ruby,rust,html,css,javascript,php,typescript)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,kotlin,python,c,cpp,cs,ruby,rust,html,css,javascript,php,typescript,r)](https://skillicons.dev)
 
 ## Databases
-[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite,firebase)](https://skillicons.dev)
 
 ## Providers
 [![Providers](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
