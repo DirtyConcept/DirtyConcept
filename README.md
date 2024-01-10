@@ -1,6 +1,6 @@
 ### Hello there!
 
-What's up, I'm SadGhost (a.k.a DirtyConcepts), a self-taught full-stack developer who usually works around the games. My passion for development comes from creative ideas that pop into my mind which encourage and challenge me. I put a lot of effort into the architecture and code quality of the things I program.
+What's up, I'm Idan (a.k.a DirtyConcepts), a self-taught full-stack developer who usually works around the games. My passion for development comes from creative ideas that pop into my mind which encourage and challenge me. I put a lot of effort into the architecture and code quality of the things I program.
 
 I'm also a programming enthusiast as well as learned a lot from the open-source community I love how collaboration and knowledge-sharing happened through it.
 
